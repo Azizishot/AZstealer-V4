@@ -3,6 +3,7 @@
 - 40 Stars For Dualhook ❌
 - 65 Stars Discord Bot Builder ❌
 - 110 Stars Telegram Builder ❌
+- 150 Stars Telegram Logs ❌
 
 # AZstealer 😱
 ![image](https://raw.githubusercontent.com/Azizishot/AZstealer-V4/main/az/Discord_94aRsUggLz.png)
