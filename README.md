@@ -1,4 +1,4 @@
-# Releases
+# RELEASING SRC AT 25 STARS! ( FUD )
 - 25 stars for Release ❌
 - 40 Stars For Dualhook ❌
 - 65 Stars Discord Bot Builder ❌
