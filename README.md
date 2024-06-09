@@ -1,8 +1,7 @@
 # RELEASING SRC AT 25 STARS! ( FUD )
 - 25 stars for Release ❌
-- 40 Stars For Dualhook ❌
-- 65 Stars Discord Bot Builder ❌
-- 110 Stars Telegram Builder ❌
+- 40 Stars Discord Bot Builder ❌
+- 60 Stars Telegram Builder ❌
 - 150 Stars Telegram Logs ❌
 
 # AZstealer 😱
