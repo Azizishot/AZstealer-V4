@@ -22,5 +22,6 @@ HISTORY
 DOWNLOADS
 FILES
 # USE NOW FOR FREE!
-Telegram: https://t.me/duckstealer\n
+Telegram: https://t.me/duckstealer
+
 Discord: https://discord.gg/JBkwy6dY
