@@ -24,4 +24,4 @@ FILES
 # USE NOW FOR FREE!
 Telegram: https://t.me/duckstealer
 
-Discord: https://discord.gg/JBkwy6dY
+Discord: https://discord.gg/QU2AcKFg
